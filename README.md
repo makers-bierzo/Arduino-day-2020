@@ -1,5 +1,5 @@
 # Arduino-day-2020
-Repositorio con la info del Taller del Arduino Day 2020
+Repositorio con la info del Taller del Arduino Day 2020 (21 de marzo)
 
 El programa de la jornada es el siguiente:
 
@@ -20,4 +20,6 @@ Programa:
 14.00H Despedida de la Jornada
 
 El taller será impartido por Victor López y Pablo Linares.
+
+El lugar de impartación es en el Museo de la Energía de Ponferrada. Gratuito pero necesaria inscripción en guias@ciuden.es.
 
